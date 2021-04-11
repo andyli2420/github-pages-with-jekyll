@@ -1,1 +1,4 @@
-title:11/4/21
+---
+title: "Welcome to my blog"
+date: 2021-04-11
+---
